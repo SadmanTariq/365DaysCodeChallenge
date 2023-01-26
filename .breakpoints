@@ -1,11 +1,27 @@
 {
   "files": {
+    "Daily/day23.py": [
+      {
+        "id": "d4b8af14-51ec-4848-bad4-886056c8dc60",
+        "line": 2,
+        "version": 211,
+        "index": 15
+      }
+    ],
+    "Daily/day26.py": [
+      {
+        "id": "eba6050f-4b3b-4a87-ba2d-061544c43b60",
+        "line": 2,
+        "version": 8,
+        "index": 31
+      }
+    ],
     "Weekly/week2.py": [
       {
         "id": "c72e41d6-28d3-4c86-a09b-2afe71312202",
         "line": 7,
-        "version": 242,
-        "index": 122
+        "version": 264,
+        "index": 116
       }
     ]
   }

@@ -1,1 +1,1 @@
-import Weekly.week2
+import Daily.day26
